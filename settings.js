@@ -3,7 +3,7 @@ const settings = {
   author: 'Wambugu Kinyua',
   botName: "Kinyua Bot",
   botOwner: 'Wambugu Kinyua', // Your name
-  ownerNumber: '918280823289', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '916372959362', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
